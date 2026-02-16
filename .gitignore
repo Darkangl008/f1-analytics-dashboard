@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Streamlit cache
+.cache/
+
+# FastF1 cache
+cache/
+
+# OS
+.DS_Store
+Thumbs.db
